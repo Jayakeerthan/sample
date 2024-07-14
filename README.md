@@ -1,5 +1,5 @@
 
-![.](.vscode/orca.webp)
+
 
 
 # Prompt Engineering with orca model
